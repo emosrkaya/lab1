@@ -10,12 +10,12 @@ This repository contains a Python script to generate a list of random integers w
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/emosrkaya/lab1.git
+    git clone https://github.com/emosrkaya/lab2.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd lab1
+    cd lab2
     ```
 
 3. Run the script:
